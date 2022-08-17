@@ -1,0 +1,27 @@
+pluginManagement {
+
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+
+}
+dependencyResolutionManagement {
+
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "CameraSamples"
+include ':Camera2Basic'
+include ':CameraUtils'
+include ':Camera2Extensions'
+include ':Camera2SlowMotion'
+include ':Camera2Video'
+include ':CameraXAdvanced'
+include ':CameraXBasic'
+include ':CameraXVideo'

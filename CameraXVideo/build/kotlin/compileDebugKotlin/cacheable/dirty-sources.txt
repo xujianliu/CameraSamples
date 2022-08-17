@@ -1,0 +1,7 @@
+D:\AndroidStudioProjects\CameraSamples\CameraXVideo\src\main\java\com\example\android\camerax\video\fragments\PermissionsFragment.kt
+D:\AndroidStudioProjects\CameraSamples\CameraXVideo\src\main\java\com\example\android\camerax\video\fragments\CaptureFragment.kt
+D:\AndroidStudioProjects\CameraSamples\CameraXVideo\src\main\java\com\example\android\camerax\video\fragments\VideoViewerFragment.kt
+D:\AndroidStudioProjects\CameraSamples\CameraXVideo\src\main\java\com\example\android\camerax\video\MainActivity.kt
+D:\AndroidStudioProjects\CameraSamples\CameraXVideo\src\main\java\com\example\android\camerax\video\extensions\VideoRecordEventExt.kt
+D:\AndroidStudioProjects\CameraSamples\CameraXVideo\src\main\java\com\example\android\camerax\video\extensions\VideoQualityExt.kt
+D:\AndroidStudioProjects\CameraSamples\CameraXVideo\src\main\java\com\example\android\camerax\video\MainApplication.kt
